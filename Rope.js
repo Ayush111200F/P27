@@ -1,7 +1,7 @@
 class Rope{
     constructor(body1, body2, offsetX, offsetY){
-        this.offsetX = offSetX;
-        this.offsetY = offSetY;
+        this.offsetx = offSetx;
+        this.offsety = offSety;
         var options = {
             bodyA: body1,
             bodyB: body2,
